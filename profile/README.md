@@ -1,1 +1,1 @@
-A WIP Meower client - Name TBD
+A WIP Meower client
