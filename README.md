@@ -1,1 +1,1 @@
-A WIP Meower client - Name TBD
+Readme for the org profile
